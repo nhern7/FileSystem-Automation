@@ -1,2 +1,1 @@
-# FileSystem-Automation
-Practice learning how to automate basic operating system functions.
+resources: https://docs.microsoft.com/en-us/windows/python/scripting
